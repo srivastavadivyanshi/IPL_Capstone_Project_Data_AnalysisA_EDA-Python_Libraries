@@ -1,6 +1,6 @@
 # 🏏 IPL Capstone Project
 
-::: {align="center"}
+
 ### Exploratory Data Analysis of Indian Premier League (IPL) Matches
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -53,7 +53,7 @@ IPL-Capstone-Project/
 
 ## 🚀 Getting Started
 
-``` bash
+
 git clone https://github.com/https://github.com/srivastavadivyanshi/IPL-Capstone-Project.git
 cd IPL-Capstone-Project
 pip install pandas numpy matplotlib
@@ -64,5 +64,5 @@ jupyter notebook
 
 **Divyanshi Srivastava**
 
-Data Science Undergraduate \| Aspiring Data Scientist
+Data Science Undergraduate | Aspiring Data Scientist
 
